@@ -1,0 +1,4 @@
+- Không vật cản, xe tranh không đâm vào tường và về đích
+- đâm tường : reward = -500
+- reward = last_distance - distance
+- reward = last_step - num_step
