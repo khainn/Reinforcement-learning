@@ -18,7 +18,7 @@ def train_net(model, params):
 
     observe = 1000  # Number of frames to observe before training.
     epsilon = 1
-    train_frames = 500000  # Number of frames to play.
+    train_frames = 200000  # Number of frames to play.
     batchSize = params['batchSize']
     buffer = params['buffer']
 
